@@ -8,3 +8,7 @@
 
 ### 替换成自己数据集
 保证训练集里面按类别分成几个文件夹即可，照葫芦画瓢
+
+
+### HOG思想一览
+http://blog.sina.com.cn/s/blog_6a1bf1310102uxhs.html
